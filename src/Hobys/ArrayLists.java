@@ -16,5 +16,6 @@ public class ArrayLists {
         }
 
         System.out.println(Arrays.binarySearch(list.toArray(), 12));
+        System.out.println("hello world");
     }
 }
